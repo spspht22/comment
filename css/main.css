@@ -1,0 +1,14 @@
+.singlecomment {
+	border: 5px grey ridge;
+    padding: 0px 10px;
+}
+
+/*delete button for comment boxes*/
+.delete {
+	background-color: white;
+    color: red;
+    font-size: 9px;
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+}
